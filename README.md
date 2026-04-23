@@ -1,5 +1,5 @@
 # batch_import_images_to_brushes
-Batch import images as texture paint and sculpt brushes with automatic preview generation
+Batch import images as texture paint and sculpt brushes in Blender 5.1
 
 # Batch Import Images to Brushes
 
