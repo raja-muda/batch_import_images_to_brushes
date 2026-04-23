@@ -149,11 +149,11 @@ Perfect for artists who need to import large collections of alpha textures, skin
 - Previews are cached for quick loading
 
 ## File Structure
-batch_import_images_to_brushes/
-├── init.py # Main addon code
-├── blender_manifest.toml # Extension manifest
-└── README.md # This file
-
+| File | Description |
+|------|-------------|
+| `batch_import_images_to_brushes/__init__.py` | Main addon code |
+| `batch_import_images_to_brushes/blender_manifest.toml` | Extension manifest |
+| `batch_import_images_to_brushes/README.md` | This file |
 
 ## Requirements
 
