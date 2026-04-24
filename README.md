@@ -157,7 +157,7 @@ Perfect for artists who need to import large collections of alpha textures, skin
 
 ## Requirements
 
-- **Blender**: Version 5.1.0 or higher
+- **Blender**: Version 4.4.0 or higher
 - **Platform**: Windows, macOS, Linux
 - **Python**: Built-in Blender Python (no external dependencies)
 
