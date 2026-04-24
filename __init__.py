@@ -2,8 +2,8 @@ bl_info = {
     "name": "Batch Import Images to Brushes",
     "author": "Raja Muda",
     "description": "Import multiple images as texture paint and sculpt brushes",
-    "blender": (5, 1, 0),
-    "version": (1, 0, 0),
+    "blender": (4, 4, 0),
+    "version": (1, 0, 1),
     "location": "File > Import > Images as Brushes",
     "category": "Import-Export",
 }
