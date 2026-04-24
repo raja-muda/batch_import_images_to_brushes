@@ -224,6 +224,11 @@ See the [LICENSE](LICENSE) file for details.
 - Automatic preview generation
 - Blender 5.1+ extension system support
 
+### Version 1.0.1
+
+- **Lowered minimum Blender requirement** from 5.1+ to 4.4+
+- No feature changes - this is a compatibility-only release
+
 ## Credits
 
 - **Author**: Raja Muda
