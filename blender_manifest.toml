@@ -3,10 +3,10 @@ schema_version = "1.0.0"
 id = "batch_import_images_to_brushes"
 name = "Batch Import Images to Brushes"
 tagline = "Import images as texture paint and sculpt brushes"
-version = "1.0.0"
+version = "1.0.1"
 type = "add-on"
 
-blender_version_min = "5.1.0"
+blender_version_min = "4.4.0"
 
 maintainer = "Raja Muda"
 
