@@ -3,7 +3,7 @@ Batch import images/alphas as texture paint and sculpt brushes in Blender 4.4+
 
 # Batch Import Images to Brushes
 
-[![Blender Version](https://img.shields.io/badge/Blender-5.1%2B-blue)](https://www.blender.org/)
+[![Blender Version](https://img.shields.io/badge/Blender-4.4%2B-blue)](https://www.blender.org/)
 [![License](https://img.shields.io/badge/License-GPL--3.0--or--later-green)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Extensions](https://img.shields.io/badge/Blender-Extensions-orange)](https://extensions.blender.org/)
 
